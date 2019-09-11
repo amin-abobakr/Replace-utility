@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543751745 source:c:\users\abdelrhman\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdint-gcc.h>
+	<string.h>
+	<process.h>
+	"utils.h"
+	<ctype.h>
+
+1543738286 c:\users\abdelrhman\desktop\test\utils.h
+
